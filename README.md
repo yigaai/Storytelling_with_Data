@@ -8,9 +8,9 @@ This repository contains my data analysis scripts and experiments, mainly focuse
 
 - statistical modeling   
 - data visualization  
-- data analysis  
+- data analysis
+- machine learning
 
-The goal is to use data as a way to reveal structure, variation, and meaningful patterns. 
 
 
 
